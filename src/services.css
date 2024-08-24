@@ -1,0 +1,24 @@
+.services{
+    display: flex;
+   gap: 20px;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.services div{
+    background-color: #2f4858;
+    padding: 10px;
+    color: #f6f4f3;
+    font-size: 20px;
+    width: 30%;
+   height: 150px;
+   text-align: center;
+    
+}
+.services div i{
+    margin-top: 40px;
+    font-size: 30px;
+}

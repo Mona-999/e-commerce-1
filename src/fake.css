@@ -1,0 +1,55 @@
+.fake{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    width: 90%;
+    margin: 60px auto;
+}
+.fake img{
+    width: 400px;
+    height: 400px;
+
+}
+.fake-del >*{
+    margin-bottom: 20px;
+
+}
+.fake-del div{
+    display: flex;
+    gap: 10px;
+    color: gold;
+
+    
+}
+.fake-del h2{
+    color: #2f4858;
+    font-size: 18px;
+
+}
+.fake-del p{
+    font-size: 20px;
+    line-height: 1.5;
+    opacity: .6;
+}
+
+.fake-del button{
+    display: block;
+    border: none;
+  
+    width: 150px;
+    padding: 3px;
+    margin-bottom: 5px;
+    background-color: #2f4858;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    
+
+}
+.mona{
+    text-decoration: none;
+}
+.car{
+    color: white;
+}

@@ -1,0 +1,44 @@
+.con{
+    display: flex;
+   gap: 20px;
+   border: 1px solid gray;
+   padding: 20px;
+   width: 90%;
+   margin-left: 50px;
+   margin-top: 50px;
+
+ 
+}
+
+.title  h1{
+    color:  #2f4858;
+
+    font-size: 30px;
+}
+.title p{
+    color: black;
+}
+.frame {
+    width: 50%;
+    height: 500px;
+    margin-left: 60px;
+   
+}
+.input{
+    display: flex;
+ 
+    flex-direction: column;
+    margin-top: 5px;
+    margin-right: 100px;
+}
+.input input{
+    width: 600px;
+    padding: 10px;
+    margin-top: 10px;
+    
+}
+.input textarea{
+    margin-top: 10px;
+    padding: 10px;
+    height: 260px;
+}
